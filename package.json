@@ -1,0 +1,9 @@
+{
+  "name": "avto-zasvar",
+  "version": "1.0.0",
+  "description": "Авто засварын газрын систем: Засвар үйлчилгээ",
+  "private": true,
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=22" },
+  "license": "UNLICENSED"
+}
